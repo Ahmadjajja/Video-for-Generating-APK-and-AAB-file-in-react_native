@@ -11,5 +11,5 @@ cd android      // uses for AAB file
 
 
 
-cd android      // uses for AAB file
+cd android      // uses for APK file
 ./gradlew assembleRelease
